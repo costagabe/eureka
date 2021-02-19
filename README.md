@@ -9,7 +9,7 @@ ou na api do VIACep, dependendo se o dado já exista em cache no banco.
 # Backend
 
 ``` 
-Para carregar as dependências, basta abrir o projeto em sua IDE de preferência como projeto Maven.
+Para carregar as dependências, basta abrir o projeto Maven em sua IDE de preferência.
 ```
 
 ### Entrar na pasta do backend
